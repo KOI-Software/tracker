@@ -1,6 +1,6 @@
 # **NAMEOFPROJECT**
 
-ENG: [README](/docs/README.md)
+ENG: [README](/docs/en/README.md)
 
 RUS: [ПРОЧТИМЕНЯ](/docs/rus/README.md)
 
