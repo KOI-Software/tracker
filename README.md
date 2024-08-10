@@ -1,4 +1,4 @@
-# **NAMEOFPROJECT**
+# **OptiTrack**
 
 ENG: [README](/docs/en/README.md)
 
